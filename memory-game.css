@@ -1,0 +1,21 @@
+/* you can add to or change this. */
+
+#game div {
+  border: 1px solid black;
+  width: 100px;
+  height: 150px;
+  margin: 20px;
+  position : relative;
+  display : inline-flex;
+  justify-content: center;
+  border-radius : 5px;
+}
+
+#game {
+  margin : auto;
+  width : 710px;
+}
+
+h1 {
+  text-align : center;
+}
